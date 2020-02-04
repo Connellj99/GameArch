@@ -1,0 +1,25 @@
+ASSET PATHS
+apAssetPath ..\..\shared\assets\
+apPlayerImage player_sprites.png
+apWallImage wall_sprites.png
+apBonusImage bonus_sprites.png
+apSlowImage slow_sprites.png
+apFastImage speedup_sprites.png
+apGrowImage grow_sprites.png
+apFont cour.ttf
+
+HUD
+hGameScore 0 //initializes the score on the hud
+hScoreAmt 10 //Just the basic score per grow food
+
+SPRITE
+sSpriteDisplaceX 25
+sSpriteDisplaceY 25
+sSpritePerRow 4
+sSpritePerColumn 4
+
+OTHER
+oScreenDivisorCentering 2.0
+oBackgroundScaleVal 1.0
+oSpriteDimensions 64 60
+oUnitPos 0 0

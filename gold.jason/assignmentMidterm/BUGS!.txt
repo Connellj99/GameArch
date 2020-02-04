@@ -1,0 +1,5 @@
+Make cleanups for snake and snakeholder
+
+Call cleanups for snake and snakeholder
+
+Crash on pressing escape (most likely due to bugs listed above)

@@ -1,0 +1,13 @@
+Food3.png
+SlowDown3.png
+SpeedUp3.png
+Snake.png
+Background.png
+cour.ttf
+..\\..\\Roman.Miller\\midterm\\Assets\\
+100
+200
+500
+1000
+6000
+3

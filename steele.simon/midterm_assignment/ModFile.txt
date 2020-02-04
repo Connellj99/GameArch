@@ -1,0 +1,68 @@
+Display_Dimensions: 800 600
+
+Background_Filename: background.png
+Background_Scaling_Value: 0.5
+
+Centipede_Segment_Dimensions: 32 32
+Centipede_Segment_Filename: CentipedeSegment.png
+Centipede_Head_Filename: CentipedeSegmentHead.png
+Centipede_Sprites_Per_Row_And_Column: 1 2
+
+Player_Filename: Player.png
+Player_Dimensions: 32 32
+Player_Sprites_Per_Row_And_Column: 1 1
+Player_Boundaries: 0 500
+Player_Lives_Per_Game: 3
+
+Bullet_Filename: Laser.png
+Bullet_Dimensions: 32 32
+Bullet_Sprites_Per_Row_And_Column: 1 2
+Speed_Of_Bullet: 30
+
+Mushroom_Dimensions: 32 32
+Mushroom_One_Filename: Mushroom_One.png
+Mushroom_Two_Filename: Mushroom_Two.png
+Mushroom_Three_Filename: Mushroom_Three.png
+Mushroom_Four_Filename: Mushroom_Four.png
+Mushroom_Sprites_Per_Row_And_Column: 1 2
+
+Number_of_Centipede_Segments: 5
+Initial_Speed_Of_Centipede: 60.0
+Initial_Centipede_Position: 160 0
+
+Mushrooms_Per_Level: 12
+Initial_Health_Of_A_Mushroom: 4
+
+In_Game_Text_Color: 1 0 0
+In_Game_Text: ARCADECLASSIC.TTF
+
+Title_Text_Position: 400 250
+Title_Text_Font_Size: 75
+Title_Text_Message: " Centipede "
+
+Instructional_Text_Position: 400 350
+Instructional_Text_Font_Size: 25
+Instructional_Text_Message; " Press Space "
+
+End_Text_Position: 400 250
+End_Text_Font_Size: 70
+End_Text_Message: " Game Over Play Again "
+
+Score_Text_Position: 400 0
+Score_Text_Font_Size: 30
+Score_Text_Message: " Score "
+
+Lives_Remaining_Display_Text_Position: 400 250
+Lives_Remaining_Display_Text_Font_Size: 50
+Lives_Remaining_Display_Text_Message: " Lives Remaining "
+
+Lives_Remaining_Text_Position: 700 0
+Lives_Remaining_Text_Font_Size: 30
+Lives_Remaining_Text_Message: " Lives "
+
+FPS_Text_Position: 100 0
+FPS_Text_Font_Size: 30
+FPS_Text_Message: " FPS "
+
+Points_Value_Per_Each_Centipede_Segment: 200
+Points_Value_Required_For_Extra_Life: 12000

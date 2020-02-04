@@ -1,0 +1,13 @@
+ASSET_PATH: assets\\
+BACKGROUND_FILENAME: Background.png
+PLAYER_FILENAME: PlayerAnimFull.png
+WALL_FILENAME: WallAnimFull.png
+BODY_FILENAME: BodyAnimFull.png
+APPLE_FILENAME: AppleAnimFull.png
+SPEED_UP_FILENAME: SpeedUpAnimFull.png
+SLOW_DOWN_FILENAME: SlowDownAnimFull.png
+BONUS_FILENAME: BonusAnimFull.png
+WELCOME_SCREEN_FILENAME: Title.png
+WIN_SCREEN_FILENAME: Win.png
+LOSS_SCREEN_FILENAME: Loss.png
+NUMBER_OF_LEVELS: 4

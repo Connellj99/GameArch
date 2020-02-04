@@ -1,0 +1,24 @@
+Display_Dimensions: 800 600
+
+Background_Filename: Background.png
+Background_Scaling_Value: 1.0
+
+Player_Filename: MiniMario_Walk.png
+Player_Dimensions: 32 32
+Player_Sprites_Per_Row_And_Column: 1 2
+
+Default_Block_Filename: Block.png
+Default_Block_Dimensions: 32 32
+Default_Block_Sprites_Per_Row_And_Column: 1 1
+
+Brick_Block_Filename: BrickBlock.png
+Brick_Block_Dimensions: 32 32
+Brick_Block_Sprites_Per_Row_And_Column: 1 4
+
+Question_Block_Filename: QuestionBlock.png
+Question_Block_Dimensions: 32 32
+Question_Block_Sprites_Per_Row_And_Column: 1 4
+
+Question_Block_Empty_Filename: QuestionBlock_Empty.png
+Question_Block_Empty_Dimensions: 32 32
+Question_Block_Empty_Sprites_Per_Row_And_Column: 1 1

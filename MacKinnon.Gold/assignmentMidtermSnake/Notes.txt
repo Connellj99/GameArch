@@ -1,0 +1,5 @@
+Have snake movement be based on units taking position of unit in front of it.
+
+format for level set up #col #row #specifies tile type
+
+Try to not use the Level Creation class it seems to have issues try to make most of the game in the game class and just use loops to determine levels rather than create a new thing each time

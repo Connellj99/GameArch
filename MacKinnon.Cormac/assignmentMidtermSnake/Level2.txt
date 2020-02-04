@@ -1,0 +1,35 @@
+SETTINGS
+foodScore 5
+extraPoints 10
+powerUpTimer 7
+winLength 9
+speed .2
+eos
+SPAWNPOSITIONS
+SNAKE
+4 3
+3 3
+2 3
+-1
+WALL
+8 8
+12 12
+9 9
+5 5
+2 2
+6 6
+-1
+ASSETS
+BACKGROUND background_texture.jpg 1 1
+SNAKE snake.png 1 1
+WALL wallAnimated.png 1 3
+FOOD foodAnimated.png 1 3
+DOWN speedDown.png 1 3
+UP speedUp.png 1 3
+EXTRA extraPoints.png 1 3
+eos
+POWERUPS
+speedDown SPEED_DOWN_TILE .5
+speedUp SPEED_UP_TILE .4
+extraPoints EXTRA_POINTS_TILE .7
+eos

@@ -1,0 +1,24 @@
+ASSET_PATHS
+apAssetPath ..\..\shared\assets\
+apChunAssetPath ..\..\chuntao.lin\MidTerm\chunAssets\
+apCustomBG snake_background.png
+
+SNAKE
+sSpeed 1
+sInitLength 3
+
+LEVEL
+sLengthRequired 5
+
+WALLS
+sWallPos 75 200
+sWallPos 600 100
+sWallPos 200 225
+
+POWERUP
+pSlowAmt 2
+pFastAmt 2
+pBonusAmt 20
+
+TIMING
+tFrequencyPowerUp 20

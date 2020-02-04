@@ -1,0 +1,11 @@
+720
+768
+60.0
+Assets\\
+5
+player.png 21 24
+mushroom.png 24 24
+bullet.png 4 10
+centipede_head.png 24 24
+centipede_body.png 24 24
+cour.ttf 23

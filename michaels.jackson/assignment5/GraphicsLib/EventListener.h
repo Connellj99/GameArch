@@ -1,0 +1,19 @@
+#pragma once
+
+#include <Trackable.h>
+#include "EventSystem.h"
+
+
+class EventListener : public Trackable
+{
+public:
+	EventListener(EventSystem* pEventSystem);
+	virtual ~EventListener();
+
+	virtual void handleEvent(const Event& theEvent) = 0;
+
+private:
+	EventSystem* mpEventSystem;//the event system this lister is listening to
+protected:
+	EventSystem * getEventSystem() const { return mpEventSystem; };
+};

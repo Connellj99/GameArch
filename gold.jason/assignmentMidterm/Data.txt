@@ -1,0 +1,22 @@
+Asset Paths:
+Assets/SnakeHead.jpg
+Assets/SnakeBody.jpg
+Assets/Food.jpg
+Assets/Debuff.jpg
+Assets/Buff.jpg
+Assets/background.jpg
+Assets/GameOver.png
+Assets/blackspace.png
+
+Score:
+10
+
+Movement Speed:
+30
+10.0f
+
+Buff/Debuff Spawn:
+2
+2
+
+END OF LINE

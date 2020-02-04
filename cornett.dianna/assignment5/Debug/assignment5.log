@@ -1,0 +1,8 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (assignment4.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Game.cpp
+  GraphicsBufferManager.cpp
+  main.cpp
+  Unit.cpp
+  UnitManager.cpp
+  Generating Code...
+  assignment5.vcxproj -> C:\Users\dianna.cornett\Desktop\svn\cornett.dianna\assignment5\Debug\assignment5.exe

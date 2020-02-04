@@ -1,0 +1,4 @@
+Score:
+Score_Filename: SuperMario3.ttf
+Score_Color: 1.0 1.0 1.0
+Initial_Score: 0

@@ -1,0 +1,4 @@
+Spnning Orb\sheets\red.png;redOrb
+Spnning Orb\sheets\green.png;greenOrb
+Spnning Orb\sheets\blue.png;blueOrb
+Spnning Orb\sheets\yellow.png;yellowOrb

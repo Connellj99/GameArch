@@ -1,0 +1,159 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="Animation.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Game.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="InputTranslator.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Unit.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CreateUnitEvent.cpp">
+      <Filter>Source Files\GameEvents</Filter>
+    </ClCompile>
+    <ClCompile Include="DeleteUnitEvent.cpp">
+      <Filter>Source Files\GameEvents</Filter>
+    </ClCompile>
+    <ClCompile Include="FoodManager.cpp">
+      <Filter>Source Files\Managers</Filter>
+    </ClCompile>
+    <ClCompile Include="GraphicsBufferManager.cpp">
+      <Filter>Source Files\Managers</Filter>
+    </ClCompile>
+    <ClCompile Include="UnitManager.cpp">
+      <Filter>Source Files\Managers</Filter>
+    </ClCompile>
+    <ClCompile Include="LevelManager.cpp">
+      <Filter>Source Files\Managers</Filter>
+    </ClCompile>
+    <ClCompile Include="Wall.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="WallManager.cpp">
+      <Filter>Source Files\Managers</Filter>
+    </ClCompile>
+    <ClCompile Include="PowerUpManager.cpp">
+      <Filter>Source Files\Managers</Filter>
+    </ClCompile>
+    <ClCompile Include="HudUIManager.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Animation.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Game.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="InputTranslator.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Unit.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CreateUnitEvent.h">
+      <Filter>Header Files\GameEvents</Filter>
+    </ClInclude>
+    <ClInclude Include="DeleteUnitEvent.h">
+      <Filter>Header Files\GameEvents</Filter>
+    </ClInclude>
+    <ClInclude Include="Exit.h">
+      <Filter>Header Files\GameEvents</Filter>
+    </ClInclude>
+    <ClInclude Include="FlipAnimations.h">
+      <Filter>Header Files\GameEvents</Filter>
+    </ClInclude>
+    <ClInclude Include="GameEvent.h">
+      <Filter>Header Files\GameEvents</Filter>
+    </ClInclude>
+    <ClInclude Include="ToggleAnimations.h">
+      <Filter>Header Files\GameEvents</Filter>
+    </ClInclude>
+    <ClInclude Include="StartGame.h">
+      <Filter>Header Files\GameEvents</Filter>
+    </ClInclude>
+    <ClInclude Include="MoveLeftEvent.h">
+      <Filter>Header Files\GameEvents</Filter>
+    </ClInclude>
+    <ClInclude Include="MoveRightEvent.h">
+      <Filter>Header Files\GameEvents</Filter>
+    </ClInclude>
+    <ClInclude Include="MoveUpEvent.h">
+      <Filter>Header Files\GameEvents</Filter>
+    </ClInclude>
+    <ClInclude Include="MoveDownEvent.h">
+      <Filter>Header Files\GameEvents</Filter>
+    </ClInclude>
+    <ClInclude Include="FoodManager.h">
+      <Filter>Header Files\Managers</Filter>
+    </ClInclude>
+    <ClInclude Include="GraphicsBufferManager.h">
+      <Filter>Header Files\Managers</Filter>
+    </ClInclude>
+    <ClInclude Include="UnitManager.h">
+      <Filter>Header Files\Managers</Filter>
+    </ClInclude>
+    <ClInclude Include="LevelManager.h">
+      <Filter>Header Files\Managers</Filter>
+    </ClInclude>
+    <ClInclude Include="Wall.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="WallManager.h">
+      <Filter>Header Files\Managers</Filter>
+    </ClInclude>
+    <ClInclude Include="PowerUpManager.h">
+      <Filter>Header Files\Managers</Filter>
+    </ClInclude>
+    <ClInclude Include="RestartEvent.h">
+      <Filter>Header Files\GameEvents</Filter>
+    </ClInclude>
+    <ClInclude Include="HudUIManager.h">
+      <Filter>Header Files\Managers</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{1930fb3d-4927-4013-8d17-25b85c11d748}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\GameEvents">
+      <UniqueIdentifier>{b00b6bad-d008-4a64-b97c-ed130768b719}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{759950e0-0107-4912-94d1-c53b55ddf7d8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\GameEvents">
+      <UniqueIdentifier>{7a5a245d-8d50-4bd0-bee7-394b26c32492}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="DataFiles">
+      <UniqueIdentifier>{e2be9204-c72d-453b-b0f7-c17c06491c08}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Managers">
+      <UniqueIdentifier>{b1fc6a9d-934d-4ab1-85b9-2625e30ea50b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Managers">
+      <UniqueIdentifier>{b56c92a4-7e2f-48ae-9681-6f3a4b71ba45}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="Level1Data.txt">
+      <Filter>DataFiles</Filter>
+    </Text>
+    <Text Include="GameData.txt">
+      <Filter>DataFiles</Filter>
+    </Text>
+    <Text Include="Level2Data.txt">
+      <Filter>DataFiles</Filter>
+    </Text>
+    <Text Include="Level3Data.txt">
+      <Filter>DataFiles</Filter>
+    </Text>
+  </ItemGroup>
+</Project>

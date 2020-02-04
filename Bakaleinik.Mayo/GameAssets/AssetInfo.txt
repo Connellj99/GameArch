@@ -1,0 +1,8 @@
+Data_Start
+
+Mushroom_Count 30
+Centipede_Speed 10
+Mushroom_Images Shroom01.png Shroom02.png Shroom03.png Shroom04.png
+Centipede_Images centipede-head.png centipede-body.png
+Target_FPS 60
+Text_Font cour.ttf 20

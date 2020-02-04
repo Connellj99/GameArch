@@ -1,0 +1,43 @@
+Display_Dimensions: 800 600
+
+Background_Filename: Background.png
+Background_Scaling_Value: 1.0
+
+Player_Filename: MiniMario_Walk.png
+Player_Dimensions: 32 32
+Player_Sprites_Per_Row_And_Column: 1 2
+
+Player_Jump_Filename: MiniMario_Jump.png
+Player_Jump_Sprites_Per_Row_And_Column: 1 1
+
+Player_Jump_Left_Filename: MiniMario_Jump_L.png
+Player_Jump_Left_Sprites_Per_Row_And_Column: 1 1
+
+Player_Walking_Left_Filename: MiniMario_Walk_L.png
+Player_Walking_Left_Sprites_Per_Row_And_Column: 1 2
+
+Default_Block_Filename: WorldOneGround.png
+Default_Block_Dimensions: 32 32
+Default_Block_Sprites_Per_Row_And_Column: 1 1
+
+Brick_Block_Filename: BrickBlock.png
+Brick_Block_Dimensions: 32 32
+Brick_Block_Sprites_Per_Row_And_Column: 1 4
+
+Question_Block_Filename: QuestionBlock.png
+Question_Block_Dimensions: 32 32
+Question_Block_Sprites_Per_Row_And_Column: 1 4
+
+Question_Block_Empty_Filename: QuestionBlock_Empty.png
+Question_Block_Empty_Dimensions: 32 32
+Question_Block_Empty_Sprites_Per_Row_And_Column: 1 1
+
+Goomba_Filename: GoombaAnimation.png
+Goomba_Dimensions: 32 32
+Goomba_Sprites_Per_Row_And_Column: 1 2
+
+Hill_Prop_Filename: hill_one_worldone.png
+Hill_Prop_Dimensions: 256 128
+
+Cloud_Prop_Filename: Cloud.png
+Cloud_Prop_Dimensions: 96 46

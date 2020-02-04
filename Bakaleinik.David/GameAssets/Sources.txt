@@ -1,0 +1,18 @@
+Centipede:
+	https://www.htmlgoodies.com/html5/client/building-atari-with-createjs.html
+
+Mushroom 1:
+	http://pixelartmaker.com/art/a1a24b947b88769
+
+Mushroom 2:
+	http://pixelartmaker.com/art/52f8c8bb9371219
+
+Mushroom 3:
+	http://pixelartmaker.com/art/a8bff2be607136f
+
+Mushroom 4:
+	http://pixelartmaker.com/art/db1efb16ca96a98
+
+Player Character:
+	
+

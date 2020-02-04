@@ -1,0 +1,4 @@
+
+sprite_path="Sprites\\"
+
+filename_count=
